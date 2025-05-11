@@ -30,6 +30,6 @@ Here are a few projects I've worked on:
 2. **Task Manager** 🗂️
    - A more advanced task management system to track and prioritize tasks.
    - Developed with Express.js and PostgreSQL for a more robust backend.
-   - GitHub: [Task Manager](https://github.com/ali-shuait-dev/task-manager-api)
+   - GitHub: [Task Manager](https://github.com/ali-shuait/task-manager-api)
 
 ## I'm always open to collaboration and learning new things. Feel free to explore my projects and connect with me! 🌟
